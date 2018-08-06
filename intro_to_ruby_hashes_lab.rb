@@ -5,6 +5,7 @@ end
 
 def actor
 	actor = {}
+	actor
 end
 
 def monopoly
