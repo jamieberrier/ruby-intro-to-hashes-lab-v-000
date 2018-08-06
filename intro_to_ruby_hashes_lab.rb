@@ -1,3 +1,5 @@
+require 'pry'
+
 def new_hash
 	a_new_hash = {}
 	a_new_hash
